@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KTÜN </title>
+    <style>
+        .kutu1 {
+            background-color: blanchedalmond;
+            width: 30%;
+            height: 500px;
+            text-align: center;
+            border-radius: 20px;
+        }
+
+        .kutu2 {
+            background-color: rgb(211, 61, 61);
+            color: blanchedalmond;
+            width: 125px;
+            height: 125px;
+            display: inline-block;
+            margin-top: 100px;
+            border-radius: 5px;
+        }
+
+        .kutu3 {
+            background-color: rgb(211, 61, 61);
+            color: blanchedalmond;
+            width: 125px;
+            height: 125px;
+            display: inline-block;
+            text-align: center;
+            border-radius: 5px;
+            margin-left: 20px;
+
+        }
+
+        .kutu4 {
+            background-color: rgb(211, 61, 61);
+            color: blanchedalmond;
+            width: 125px;
+            height: 125px;
+            display: inline-block;
+            text-align: center;
+            margin-top: 20px;
+            border-radius: 5px;
+
+
+        }
+
+        .kutu5 {
+            background-color: rgb(211, 61, 61);
+            color: blanchedalmond;
+            width: 125px;
+            height: 125px;
+            display: inline-block;
+            text-align: center;
+            border-radius: 5px;
+            margin-left: 20px;
+
+        }
+
+        .metin {
+            color: brown;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+        }
+    </style>
+</head>
+
+<body>
+
+    <center>
+        <div class="kutu1">
+            <a href="https://lms.ktun.edu.tr/login/login_auth.php?errorcode=4">
+                <div class="kutu2">
+                    <h4 style="padding-top: 30px;">LMS</h4>
+                </div>
+            </a>
+            <a href="https://obsogrenci.ktun.edu.tr/">
+                <div class="kutu3">
+                    <h4 style="padding-top: 30px;">OBİS</h4>
+                </div>
+            </a>
+            <br>
+
+            <a href="https://yemekhane.ktun.edu.tr/User/Login">
+                <div class="kutu4">
+                    <h4 style="padding-top: 30px;">YEMEKHANE</h4>
+                </div>
+            </a>
+
+            <a href="https://ktun.edu.tr/">
+                <div class="kutu5">
+                    <h4 style="padding-top: 30px;">ANASAYFA</h4>
+                </div>
+            </a>
+            <h4 class="metin"> @eren.codes</h4>
+        </div>
+
+    </center>
+    
+
+</body>
+
+</html>
